@@ -38,7 +38,8 @@ def load_config(config_file:str) -> dict:
                     ret += OR
             return ret
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            query = v.get('query')
+            keywords[k] = query if query else parse_filters(v['filters'])
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
@@ -139,7 +140,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     data_web = {topic:content_to_web}
     return data,data_web
 
-def update_paper_links(filename):
+def update_paper_links(filename, active_topics=None):
     '''
     weekly update paper links in json file
     '''
@@ -160,7 +161,7 @@ def update_paper_links(filename):
         else:
             m = json.loads(content)
 
-        json_data = m.copy()
+        json_data = keep_active_topics(m.copy(), active_topics)
 
         for keywords,v in json_data.items():
             logging.info(f'keywords = {keywords}')
@@ -180,7 +181,12 @@ def update_paper_links(filename):
         with open(filename,"w") as f:
             json.dump(json_data,f)
 
-def update_json_file(filename,data_dict):
+def keep_active_topics(data, active_topics):
+    if not active_topics:
+        return data
+    return {topic: papers for topic, papers in data.items() if topic in active_topics}
+
+def update_json_file(filename,data_dict, active_topics=None):
     '''
     daily update json file using data_dict
     '''
@@ -191,7 +197,7 @@ def update_json_file(filename,data_dict):
         else:
             m = json.loads(content)
 
-    json_data = m.copy()
+    json_data = keep_active_topics(m.copy(), active_topics)
 
     # update papers in each keywords
     for data in data_dict:
@@ -339,6 +345,7 @@ def demo(**config):
     data_collector_web= []
 
     keywords = config['kv']
+    active_topics = set(keywords)
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
@@ -364,10 +371,10 @@ def demo(**config):
         md_file   = config['md_readme_path']
         # update paper links
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            update_paper_links(json_file, active_topics)
         else:
             # update json data
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file,data_collector, active_topics)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
             show_badge = show_badge)
@@ -378,9 +385,9 @@ def demo(**config):
         md_file   = config['md_gitpage_path']
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            update_paper_links(json_file, active_topics)
         else:
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file,data_collector, active_topics)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
@@ -391,9 +398,9 @@ def demo(**config):
         md_file   = config['md_wechat_path']
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            update_paper_links(json_file, active_topics)
         else:
-            update_json_file(json_file, data_collector_web)
+            update_json_file(json_file, data_collector_web, active_topics)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 

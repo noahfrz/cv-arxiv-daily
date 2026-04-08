@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><br><ins>CV-ARXIV-DAILY</ins><br>Automatically Update CV Papers Daily using Github Actions</h1>
+  <h1 align="center"><br><ins>CV-ARXIV-DAILY</ins><br>Automatically Update arXiv Streams Daily using Github Actions</h1>
  
 </p>
 
@@ -7,7 +7,7 @@
 
 ##
 
-This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily. 
+This repository hosts the source code for cv-arxiv-daily, a small script to fetch and publish arXiv paper streams on a schedule.
 
 ## Overview
 
@@ -40,7 +40,8 @@ This codebase is composed of the following parts:
     ![](../assets/5-pages-1.png)
     - Now you can open gitpage: https://your_github_usrname.github.io/cv-arxiv-daily
 5. Add new keywords (optional)
-    - Edit `keywords` in [config.yaml](../config.yaml), you can add more filters or keywords.
+    - Edit `keywords` in [config.yaml](../config.yaml).
+    - Use `filters` for a simple OR list, or `query` for a raw arXiv query string.
     - Push changes to remote repo and re-run Github Actions Manually.
 
 </details>
