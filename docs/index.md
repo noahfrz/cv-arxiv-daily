@@ -18,7 +18,17 @@ layout: default
 |**2026-03-30**|**Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR**|Pengtao Zhao et.al.|[2603.29067](http://arxiv.org/abs/2603.29067)|null|
 |**2026-03-18**|**FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair**|Ruize Ma et.al.|[2603.17826](http://arxiv.org/abs/2603.17826)|null|
 |**2026-03-11**|**Unveiling Practical Shortcomings of Patch Overfitting Detection Techniques**|David Williams et.al.|[2603.11262](http://arxiv.org/abs/2603.11262)|null|
+|**2026-03-10**|**Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation**|Amir Al-Maamari et.al.|[2603.10072](http://arxiv.org/abs/2603.10072)|null|
 |**2026-03-10**|**Compartmentalization-Aware Automated Program Repair**|Jia Hu et.al.|[2603.09544](http://arxiv.org/abs/2603.09544)|null|
+|**2026-04-05**|**On the Effectiveness of Code Representation in Deep Learning-Based Automated Patch Correctness Assessment**|Quanjun Zhang et.al.|[2603.07520](http://arxiv.org/abs/2603.07520)|null|
+|**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858](http://arxiv.org/abs/2603.06858)|null|
+|**2026-03-01**|**RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair**|Zhongqiang Pan et.al.|[2603.01048](http://arxiv.org/abs/2603.01048)|null|
+|**2026-02-28**|**Historian: Reducing Manual Validation in APR Benchmarking via Evidence-Based Assessment**|Sahand Moslemi et.al.|[2603.00649](http://arxiv.org/abs/2603.00649)|null|
+|**2026-02-27**|**SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair**|Quanjun Zhang et.al.|[2602.23647](http://arxiv.org/abs/2602.23647)|null|
+|**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500](http://arxiv.org/abs/2602.12500)|null|
+|**2026-02-09**|**ArkEval: Benchmarking and Evaluating Automated CodeRepair for ArkTS**|Bang Xie et.al.|[2602.08866](http://arxiv.org/abs/2602.08866)|null|
+|**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
+|**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
 ## Patch Validation
 
@@ -34,6 +44,16 @@ layout: default
 |**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858](http://arxiv.org/abs/2603.06858)|null|
 |**2026-03-01**|**A Systematic Study of LLM-Based Architectures for Automated Patching**|Qingxiao Xu et.al.|[2603.01257](http://arxiv.org/abs/2603.01257)|null|
 |**2026-02-28**|**Historian: Reducing Manual Validation in APR Benchmarking via Evidence-Based Assessment**|Sahand Moslemi et.al.|[2603.00649](http://arxiv.org/abs/2603.00649)|null|
+|**2026-04-06**|**CL4SE: Benchmarking Context Learning on Software Engineering**|Haichuan Hu et.al.|[2602.23047](http://arxiv.org/abs/2602.23047)|null|
+|**2026-02-14**|**Execution-State-Aware LLM Reasoning for Automated Proof-of-Vulnerability Generation**|Haoyu Li et.al.|[2602.13574](http://arxiv.org/abs/2602.13574)|null|
+|**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
+|**2026-03-07**|**Process-Centric Analysis of Agentic Software Systems**|Shuyang Liu et.al.|[2512.02393](http://arxiv.org/abs/2512.02393)|null|
+|**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019](http://arxiv.org/abs/2511.11019)|null|
+|**2025-11-14**|**Towards a Human-in-the-Loop Framework for Reliable Patch Evaluation Using an LLM-as-a-Judge**|Sherry Shi et.al.|[2511.10865](http://arxiv.org/abs/2511.10865)|null|
+|**2025-10-26**|**Scalable Supervising Software Agents with Patch Reasoner**|Junjielong Xu et.al.|[2510.22775](http://arxiv.org/abs/2510.22775)|null|
+|**2025-10-21**|**When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution**|Yang Chen et.al.|[2510.18270](http://arxiv.org/abs/2510.18270)|null|
+|**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
+|**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
