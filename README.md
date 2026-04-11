@@ -1,4 +1,4 @@
-## Updated on 2026.04.08
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair**|Zhuoyao Liu et.al.|[2604.08089](http://arxiv.org/abs/2604.08089)|null|
+|**2026-04-08**|**Fine-grained Approaches for Confidence Calibration of LLMs in Automated Code Revision**|Hong Yi Lin et.al.|[2604.06723](http://arxiv.org/abs/2604.06723)|null|
 |**2026-04-07**|**An End-to-End Approach for Fixing Concurrency Bugs via SHB-Based Context Extractor**|Zhuang Li et.al.|[2604.05753](http://arxiv.org/abs/2604.05753)|null|
 |**2026-04-07**|**On the Role of Fault Localization Context for LLM-Based Program Repair**|Melika Sepidband et.al.|[2604.05481](http://arxiv.org/abs/2604.05481)|null|
 |**2026-04-04**|**DebugHarness: Emulating Human Dynamic Debugging for Autonomous Program Repair**|Maolin Sun et.al.|[2604.03610](http://arxiv.org/abs/2604.03610)|null|
@@ -34,12 +36,13 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**REAgent: Requirement-Driven LLM Agents for Software Issue Resolution**|Shiqi Kuang et.al.|[2604.06861](http://arxiv.org/abs/2604.06861)|null|
 |**2026-04-03**|**Runtime Execution Traces Guided Automated Program Repair with Multi-Agent Debate**|Jiaqing Wu et.al.|[2604.02647](http://arxiv.org/abs/2604.02647)|null|
 |**2026-03-27**|**A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task**|Shuhan Liu et.al.|[2603.26337](http://arxiv.org/abs/2603.26337)|null|
 |**2026-03-25**|**Learning From Developers: Towards Reliable Patch Validation at Scale for Linux**|Chih-En Lin et.al.|[2603.24825](http://arxiv.org/abs/2603.24825)|null|
@@ -61,7 +64,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
