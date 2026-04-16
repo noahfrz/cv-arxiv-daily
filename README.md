@@ -1,4 +1,4 @@
-## Updated on 2026.04.13
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994](http://arxiv.org/abs/2604.12994)|null|
+|**2026-04-13**|**Enhancing Program Repair with Specification Guidance and Intermediate Behavioral Signals**|Minh Le-Anh et.al.|[2604.11770](http://arxiv.org/abs/2604.11770)|null|
+|**2026-04-12**|**PatchRecall: Patch-Driven Retrieval for Automated Program Repair**|Mahir Labib Dihan et.al.|[2604.10481](http://arxiv.org/abs/2604.10481)|null|
 |**2026-04-09**|**GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair**|Zhuoyao Liu et.al.|[2604.08089](http://arxiv.org/abs/2604.08089)|null|
 |**2026-04-08**|**Fine-grained Approaches for Confidence Calibration of LLMs in Automated Code Revision**|Hong Yi Lin et.al.|[2604.06723](http://arxiv.org/abs/2604.06723)|null|
 |**2026-04-07**|**An End-to-End Approach for Fixing Concurrency Bugs via SHB-Based Context Extractor**|Zhuang Li et.al.|[2604.05753](http://arxiv.org/abs/2604.05753)|null|
@@ -36,7 +39,7 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Patch Validation
 
@@ -56,7 +59,7 @@
 |**2026-04-06**|**CL4SE: Benchmarking Context Learning on Software Engineering**|Haichuan Hu et.al.|[2602.23047](http://arxiv.org/abs/2602.23047)|null|
 |**2026-02-14**|**Execution-State-Aware LLM Reasoning for Automated Proof-of-Vulnerability Generation**|Haoyu Li et.al.|[2602.13574](http://arxiv.org/abs/2602.13574)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
-|**2026-03-07**|**Process-Centric Analysis of Agentic Software Systems**|Shuyang Liu et.al.|[2512.02393](http://arxiv.org/abs/2512.02393)|null|
+|**2026-04-10**|**Process-Centric Analysis of Agentic Software Systems**|Shuyang Liu et.al.|[2512.02393](http://arxiv.org/abs/2512.02393)|null|
 |**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019](http://arxiv.org/abs/2511.11019)|null|
 |**2025-11-14**|**Towards a Human-in-the-Loop Framework for Reliable Patch Evaluation Using an LLM-as-a-Judge**|Sherry Shi et.al.|[2511.10865](http://arxiv.org/abs/2511.10865)|null|
 |**2025-10-26**|**Scalable Supervising Software Agents with Patch Reasoner**|Junjielong Xu et.al.|[2510.22775](http://arxiv.org/abs/2510.22775)|null|
@@ -64,7 +67,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
