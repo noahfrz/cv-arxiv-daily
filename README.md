@@ -1,4 +1,4 @@
-## Updated on 2026.04.27
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,7 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-14**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994](http://arxiv.org/abs/2604.12994)|null|
+|**2026-04-29**|**Reproducible Automated Program Repair Is Hard -- Experiences With the Defects4J Dataset**|Adam Krafczyk et.al.|[2604.26674](http://arxiv.org/abs/2604.26674)|null|
+|**2026-04-27**|**Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis**|Jiahong Xiang et.al.|[2604.24212](http://arxiv.org/abs/2604.24212)|null|
+|**2026-04-23**|**A Metamorphic Testing Approach to Diagnosing Memorization in LLM-Based Program Repair**|Milan De Koning et.al.|[2604.21579](http://arxiv.org/abs/2604.21579)|null|
+|**2026-04-21**|**DebugRepair: Enhancing LLM-Based Automated Program Repair via Self-Directed Debugging**|Linhao Wu et.al.|[2604.19305](http://arxiv.org/abs/2604.19305)|null|
+|**2026-04-19**|**Project Prometheus: Bridging the Intent Gap in Agentic Program Repair via Reverse-Engineered Executable Specifications**|Yongchao Wang et.al.|[2604.17464](http://arxiv.org/abs/2604.17464)|null|
+|**2026-04-19**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184](http://arxiv.org/abs/2604.17184)|null|
+|**2026-03-31**|**On the Use of Commit Messages for Corrective Software Maintenance: A Systematic Mapping Study**|Syful Islam et.al.|[2604.16404](http://arxiv.org/abs/2604.16404)|null|
+|**2026-04-23**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994](http://arxiv.org/abs/2604.12994)|null|
 |**2026-04-13**|**Enhancing Program Repair with Specification Guidance and Intermediate Behavioral Signals**|Minh Le-Anh et.al.|[2604.11770](http://arxiv.org/abs/2604.11770)|null|
 |**2026-04-12**|**PatchRecall: Patch-Driven Retrieval for Automated Program Repair**|Mahir Labib Dihan et.al.|[2604.10481](http://arxiv.org/abs/2604.10481)|null|
 |**2026-04-09**|**GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair**|Zhuoyao Liu et.al.|[2604.08089](http://arxiv.org/abs/2604.08089)|null|
@@ -39,12 +46,13 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**From Program Slices to Causal Clarity: Evaluating Faithful, Actionable LLM-Generated Failure Explanations via Context Partitioning and LLM-as-a-Judge**|Julius Porbeck et.al.|[2604.18309](http://arxiv.org/abs/2604.18309)|null|
 |**2026-04-08**|**REAgent: Requirement-Driven LLM Agents for Software Issue Resolution**|Shiqi Kuang et.al.|[2604.06861](http://arxiv.org/abs/2604.06861)|null|
 |**2026-04-03**|**Runtime Execution Traces Guided Automated Program Repair with Multi-Agent Debate**|Jiaqing Wu et.al.|[2604.02647](http://arxiv.org/abs/2604.02647)|null|
 |**2026-03-27**|**A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task**|Shuhan Liu et.al.|[2603.26337](http://arxiv.org/abs/2603.26337)|null|
@@ -67,7 +75,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
