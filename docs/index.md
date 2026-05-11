@@ -2,16 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-04**|**HEJ-Robust: A Robustness Benchmark for LLM-Based Automated Program Repair**|Fazle Rabbi et.al.|[2605.02215](http://arxiv.org/abs/2605.02215)|null|
-|**2026-05-03**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769](http://arxiv.org/abs/2605.01769)|null|
-|**2026-04-29**|**CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows**|Rabeya Khatun Muna et.al.|[2604.27148](http://arxiv.org/abs/2604.27148)|null|
+|**2026-05-07**|**SiblingRepair: Sibling-Based Multi-Hunk Repair with Large Language Models**|Xinyu Liu et.al.|[2605.06209](http://arxiv.org/abs/2605.06209)|null|
+|**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251](http://arxiv.org/abs/2605.04251)|null|
+|**2026-05-04**|**ARISE: A Repository-level Graph Representation and Toolset for Agentic Fault Localization and Program Repair**|Shahd Seddik et.al.|[2605.03117](http://arxiv.org/abs/2605.03117)|null|
+|**2026-05-05**|**HEJ-Robust: A Robustness Benchmark for LLM-Based Automated Program Repair**|Fazle Rabbi et.al.|[2605.02215](http://arxiv.org/abs/2605.02215)|null|
+|**2026-05-07**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769](http://arxiv.org/abs/2605.01769)|null|
+|**2026-05-04**|**CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows**|Rabeya Khatun Muna et.al.|[2604.27148](http://arxiv.org/abs/2604.27148)|null|
 |**2026-04-29**|**Reproducible Automated Program Repair Is Hard -- Experiences With the Defects4J Dataset**|Adam Krafczyk et.al.|[2604.26674](http://arxiv.org/abs/2604.26674)|null|
 |**2026-04-27**|**Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis**|Jiahong Xiang et.al.|[2604.24212](http://arxiv.org/abs/2604.24212)|null|
 |**2026-04-23**|**A Metamorphic Testing Approach to Diagnosing Memorization in LLM-Based Program Repair**|Milan De Koning et.al.|[2604.21579](http://arxiv.org/abs/2604.21579)|null|
@@ -49,8 +52,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Patch-Effect Graph Kernels for LLM Interpretability**|Ruben Fernandez-Boullon et.al.|[2605.06480](http://arxiv.org/abs/2605.06480)|null|
 |**2026-05-04**|**APIOT: Autonomous Vulnerability Management Across Bare-Metal Industrial OT Networks**|Adel ElZemity et.al.|[2605.02346](http://arxiv.org/abs/2605.02346)|null|
-|**2026-04-29**|**CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows**|Rabeya Khatun Muna et.al.|[2604.27148](http://arxiv.org/abs/2604.27148)|null|
+|**2026-05-04**|**CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows**|Rabeya Khatun Muna et.al.|[2604.27148](http://arxiv.org/abs/2604.27148)|null|
 |**2026-04-20**|**From Program Slices to Causal Clarity: Evaluating Faithful, Actionable LLM-Generated Failure Explanations via Context Partitioning and LLM-as-a-Judge**|Julius Porbeck et.al.|[2604.18309](http://arxiv.org/abs/2604.18309)|null|
 |**2026-04-08**|**REAgent: Requirement-Driven LLM Agents for Software Issue Resolution**|Shiqi Kuang et.al.|[2604.06861](http://arxiv.org/abs/2604.06861)|null|
 |**2026-04-03**|**Runtime Execution Traces Guided Automated Program Repair with Multi-Agent Debate**|Jiaqing Wu et.al.|[2604.02647](http://arxiv.org/abs/2604.02647)|null|
