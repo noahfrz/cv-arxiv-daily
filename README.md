@@ -1,4 +1,4 @@
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,10 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138](http://arxiv.org/abs/2605.13138)|null|
+|**2026-05-12**|**Characterizing the Failure Modes of LLMs in Resolving Real-World GitHub Issues**|Yanjie Jiang et.al.|[2605.12270](http://arxiv.org/abs/2605.12270)|null|
+|**2026-05-13**|**BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models**|Yuanhao Li et.al.|[2605.09134](http://arxiv.org/abs/2605.09134)|null|
 |**2026-05-07**|**SiblingRepair: Sibling-Based Multi-Hunk Repair with Large Language Models**|Xinyu Liu et.al.|[2605.06209](http://arxiv.org/abs/2605.06209)|null|
 |**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251](http://arxiv.org/abs/2605.04251)|null|
 |**2026-05-04**|**ARISE: A Repository-level Graph Representation and Toolset for Agentic Fault Localization and Program Repair**|Shahd Seddik et.al.|[2605.03117](http://arxiv.org/abs/2605.03117)|null|
-|**2026-05-05**|**HEJ-Robust: A Robustness Benchmark for LLM-Based Automated Program Repair**|Fazle Rabbi et.al.|[2605.02215](http://arxiv.org/abs/2605.02215)|null|
+|**2026-05-08**|**HEJ-Robust: A Robustness Benchmark for LLM-Based Automated Program Repair**|Fazle Rabbi et.al.|[2605.02215](http://arxiv.org/abs/2605.02215)|null|
 |**2026-05-07**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769](http://arxiv.org/abs/2605.01769)|null|
 |**2026-05-04**|**CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows**|Rabeya Khatun Muna et.al.|[2604.27148](http://arxiv.org/abs/2604.27148)|null|
 |**2026-04-29**|**Reproducible Automated Program Repair Is Hard -- Experiences With the Defects4J Dataset**|Adam Krafczyk et.al.|[2604.26674](http://arxiv.org/abs/2604.26674)|null|
@@ -52,7 +55,7 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Patch Validation
 
@@ -84,7 +87,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
