@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables**|Aren A. Babikian et.al.|[2606.03870](http://arxiv.org/abs/2606.03870)|null|
+|**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105](http://arxiv.org/abs/2605.30105)|null|
+|**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893](http://arxiv.org/abs/2605.28893)|null|
+|**2026-05-26**|**EviACT: An Evidence-to-Action Framework for Agentic Program Repair**|Qianru Meng et.al.|[2605.27238](http://arxiv.org/abs/2605.27238)|null|
+|**2026-05-18**|**BLAgent: Agentic RAG for File-Level Bug Localization**|Md Afif Al Mamun et.al.|[2605.17965](http://arxiv.org/abs/2605.17965)|null|
+|**2026-05-17**|**ContraFix: Agentic Vulnerability Repair via Differential Runtime Evidence and Skill Reuse**|Simiao Liu et.al.|[2605.17450](http://arxiv.org/abs/2605.17450)|null|
+|**2026-05-17**|**MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair**|Simiao Liu et.al.|[2605.17444](http://arxiv.org/abs/2605.17444)|null|
 |**2026-05-13**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138](http://arxiv.org/abs/2605.13138)|null|
 |**2026-05-12**|**Characterizing the Failure Modes of LLMs in Resolving Real-World GitHub Issues**|Yanjie Jiang et.al.|[2605.12270](http://arxiv.org/abs/2605.12270)|null|
 |**2026-05-13**|**BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models**|Yuanhao Li et.al.|[2605.09134](http://arxiv.org/abs/2605.09134)|null|
@@ -55,10 +62,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**Names Are All You Need: Effective and Safe Regression Test Selection for Python**|You Wang et.al.|[2605.25356](http://arxiv.org/abs/2605.25356)|null|
+|**2026-05-19**|**Measuring Safety Alignment Effects in Autonomous Security Agents**|Isaac David et.al.|[2605.19722](http://arxiv.org/abs/2605.19722)|null|
 |**2026-05-07**|**Patch-Effect Graph Kernels for LLM Interpretability**|Ruben Fernandez-Boullon et.al.|[2605.06480](http://arxiv.org/abs/2605.06480)|null|
 |**2026-05-04**|**APIOT: Autonomous Vulnerability Management Across Bare-Metal Industrial OT Networks**|Adel ElZemity et.al.|[2605.02346](http://arxiv.org/abs/2605.02346)|null|
 |**2026-05-04**|**CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows**|Rabeya Khatun Muna et.al.|[2604.27148](http://arxiv.org/abs/2604.27148)|null|
-|**2026-04-20**|**From Program Slices to Causal Clarity: Evaluating Faithful, Actionable LLM-Generated Failure Explanations via Context Partitioning and LLM-as-a-Judge**|Julius Porbeck et.al.|[2604.18309](http://arxiv.org/abs/2604.18309)|null|
+|**2026-05-20**|**From Program Slices to Causal Clarity: Evaluating Faithful, Actionable LLM-Generated Failure Explanations via Context Partitioning and LLM-as-a-Judge**|Julius Porbeck et.al.|[2604.18309](http://arxiv.org/abs/2604.18309)|null|
 |**2026-04-08**|**REAgent: Requirement-Driven LLM Agents for Software Issue Resolution**|Shiqi Kuang et.al.|[2604.06861](http://arxiv.org/abs/2604.06861)|null|
 |**2026-04-03**|**Runtime Execution Traces Guided Automated Program Repair with Multi-Agent Debate**|Jiaqing Wu et.al.|[2604.02647](http://arxiv.org/abs/2604.02647)|null|
 |**2026-03-27**|**A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task**|Shuhan Liu et.al.|[2603.26337](http://arxiv.org/abs/2603.26337)|null|
