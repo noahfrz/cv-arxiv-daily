@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
 |**2026-06-02**|**Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables**|Aren A. Babikian et.al.|[2606.03870](http://arxiv.org/abs/2606.03870)|null|
 |**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105](http://arxiv.org/abs/2605.30105)|null|
 |**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893](http://arxiv.org/abs/2605.28893)|null|
@@ -62,6 +63,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
 |**2026-05-25**|**Names Are All You Need: Effective and Safe Regression Test Selection for Python**|You Wang et.al.|[2605.25356](http://arxiv.org/abs/2605.25356)|null|
 |**2026-05-19**|**Measuring Safety Alignment Effects in Autonomous Security Agents**|Isaac David et.al.|[2605.19722](http://arxiv.org/abs/2605.19722)|null|
 |**2026-05-07**|**Patch-Effect Graph Kernels for LLM Interpretability**|Ruben Fernandez-Boullon et.al.|[2605.06480](http://arxiv.org/abs/2605.06480)|null|

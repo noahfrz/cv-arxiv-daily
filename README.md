@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
 |**2026-06-02**|**Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables**|Aren A. Babikian et.al.|[2606.03870](http://arxiv.org/abs/2606.03870)|null|
 |**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105](http://arxiv.org/abs/2605.30105)|null|
 |**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893](http://arxiv.org/abs/2605.28893)|null|
@@ -62,12 +63,13 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
 |**2026-05-25**|**Names Are All You Need: Effective and Safe Regression Test Selection for Python**|You Wang et.al.|[2605.25356](http://arxiv.org/abs/2605.25356)|null|
 |**2026-05-19**|**Measuring Safety Alignment Effects in Autonomous Security Agents**|Isaac David et.al.|[2605.19722](http://arxiv.org/abs/2605.19722)|null|
 |**2026-05-07**|**Patch-Effect Graph Kernels for LLM Interpretability**|Ruben Fernandez-Boullon et.al.|[2605.06480](http://arxiv.org/abs/2605.06480)|null|
@@ -96,7 +98,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
