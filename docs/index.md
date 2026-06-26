@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.22
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-21**|**RAVEN: Agentic RAG for Automated Vulnerability Repair**|Varun Gadey et.al.|[2606.22647](http://arxiv.org/abs/2606.22647)|null|
+|**2026-06-20**|**TraceView: Interactive Visualization of Agentic Program Repair Trajectories**|Amirali Sajadi et.al.|[2606.22110](http://arxiv.org/abs/2606.22110)|null|
+|**2026-06-20**|**A11YRepair: Bridging Web Accessibility Barriers via Knowledge-Enhanced Divide-and-Conquer Repair**|Kai Huang et.al.|[2606.21926](http://arxiv.org/abs/2606.21926)|null|
 |**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
 |**2026-06-02**|**Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables**|Aren A. Babikian et.al.|[2606.03870](http://arxiv.org/abs/2606.03870)|null|
 |**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105](http://arxiv.org/abs/2605.30105)|null|

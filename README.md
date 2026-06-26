@@ -1,4 +1,4 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-21**|**RAVEN: Agentic RAG for Automated Vulnerability Repair**|Varun Gadey et.al.|[2606.22647](http://arxiv.org/abs/2606.22647)|null|
+|**2026-06-20**|**TraceView: Interactive Visualization of Agentic Program Repair Trajectories**|Amirali Sajadi et.al.|[2606.22110](http://arxiv.org/abs/2606.22110)|null|
+|**2026-06-20**|**A11YRepair: Bridging Web Accessibility Barriers via Knowledge-Enhanced Divide-and-Conquer Repair**|Kai Huang et.al.|[2606.21926](http://arxiv.org/abs/2606.21926)|null|
 |**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
 |**2026-06-02**|**Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables**|Aren A. Babikian et.al.|[2606.03870](http://arxiv.org/abs/2606.03870)|null|
 |**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105](http://arxiv.org/abs/2605.30105)|null|
@@ -63,7 +66,7 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 ## Patch Validation
 
@@ -98,7 +101,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
