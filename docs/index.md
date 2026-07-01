@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.29
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Smaller Models, Unexpected Costs: Trade-offs in LLM Quantization for Automated Program Repair**|Fernando Vallecillos-Ruiz et.al.|[2606.27205](http://arxiv.org/abs/2606.27205)|null|
 |**2026-06-21**|**RAVEN: Agentic RAG for Automated Vulnerability Repair**|Varun Gadey et.al.|[2606.22647](http://arxiv.org/abs/2606.22647)|null|
 |**2026-06-20**|**TraceView: Interactive Visualization of Agentic Program Repair Trajectories**|Amirali Sajadi et.al.|[2606.22110](http://arxiv.org/abs/2606.22110)|null|
 |**2026-06-20**|**A11YRepair: Bridging Web Accessibility Barriers via Knowledge-Enhanced Divide-and-Conquer Repair**|Kai Huang et.al.|[2606.21926](http://arxiv.org/abs/2606.21926)|null|
@@ -27,7 +28,7 @@ layout: default
 |**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251](http://arxiv.org/abs/2605.04251)|null|
 |**2026-05-04**|**ARISE: A Repository-level Graph Representation and Toolset for Agentic Fault Localization and Program Repair**|Shahd Seddik et.al.|[2605.03117](http://arxiv.org/abs/2605.03117)|null|
 |**2026-05-08**|**HEJ-Robust: A Robustness Benchmark for LLM-Based Automated Program Repair**|Fazle Rabbi et.al.|[2605.02215](http://arxiv.org/abs/2605.02215)|null|
-|**2026-05-07**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769](http://arxiv.org/abs/2605.01769)|null|
+|**2026-06-27**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769](http://arxiv.org/abs/2605.01769)|null|
 |**2026-05-04**|**CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows**|Rabeya Khatun Muna et.al.|[2604.27148](http://arxiv.org/abs/2604.27148)|null|
 |**2026-04-29**|**Reproducible Automated Program Repair Is Hard -- Experiences With the Defects4J Dataset**|Adam Krafczyk et.al.|[2604.26674](http://arxiv.org/abs/2604.26674)|null|
 |**2026-04-27**|**Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis**|Jiahong Xiang et.al.|[2604.24212](http://arxiv.org/abs/2604.24212)|null|
@@ -66,6 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Dockerless: Environment-Free Program Verifier for Coding Agents**|Wenhao Zeng et.al.|[2606.28436](http://arxiv.org/abs/2606.28436)|null|
 |**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
 |**2026-05-25**|**Names Are All You Need: Effective and Safe Regression Test Selection for Python**|You Wang et.al.|[2605.25356](http://arxiv.org/abs/2605.25356)|null|
 |**2026-05-19**|**Measuring Safety Alignment Effects in Autonomous Security Agents**|Isaac David et.al.|[2605.19722](http://arxiv.org/abs/2605.19722)|null|
