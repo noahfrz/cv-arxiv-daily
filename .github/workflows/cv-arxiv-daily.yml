@@ -45,7 +45,7 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          uv run --with arxiv --with requests --with pyyaml python daily_arxiv.py
+          uv run --with arxiv --with requests --with pyyaml --with loguru python daily_arxiv.py
           
       - name: Push updated stream artifacts
         run: |

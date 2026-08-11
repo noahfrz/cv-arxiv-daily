@@ -1,19 +1,24 @@
 import os
 import re
 import json
+import sys
+import time
 import arxiv
 import yaml
-import logging
 import argparse
 import datetime
 import requests
+from loguru import logger
 
-logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
-                    datefmt='%m/%d/%Y %H:%M:%S',
-                    level=logging.INFO)
+logger.remove()
+logger.add(sys.stderr, format="[{time:MM/DD/YYYY HH:mm:ss} {level}] {message}", level="INFO")
 
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
+arxiv_page_size = 20
+arxiv_page_delay_seconds = 10.0
+arxiv_num_retries = 2
+arxiv_retry_delays = (60, 180, 300)
 
 def load_config(config_file:str) -> dict:
     '''
@@ -44,7 +49,7 @@ def load_config(config_file:str) -> dict:
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
-        logging.info(f'config = {config}')
+        logger.info(f'config = {config}')
     return config
 
 def get_authors(authors, first_author = False):
@@ -61,7 +66,30 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
-import requests
+
+def fetch_arxiv_results(search_engine, max_results, topic):
+    delays = (0, *arxiv_retry_delays)
+    page_size = min(max_results, arxiv_page_size)
+
+    for attempt, delay_seconds in enumerate(delays, start=1):
+        if delay_seconds:
+            logger.warning(f"arXiv rate limit for {topic}; retrying in {delay_seconds} seconds")
+            time.sleep(delay_seconds)
+
+        client = arxiv.Client(
+            page_size=page_size,
+            delay_seconds=arxiv_page_delay_seconds,
+            num_retries=arxiv_num_retries,
+        )
+
+        try:
+            return list(client.results(search_engine))
+        except arxiv.HTTPError as err:
+            if err.status != 429:
+                raise
+            if attempt == len(delays):
+                logger.warning(f"arXiv rate limit persisted for {topic}; preserving existing papers")
+                return []
 
 def get_code_link(qword:str) -> str:
     """
@@ -98,9 +126,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
-    client = arxiv.Client()
 
-    for result in client.results(search_engine):
+    for result in fetch_arxiv_results(search_engine, max_results, topic):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -113,7 +140,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+        logger.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
@@ -165,7 +192,7 @@ def update_paper_links(filename, active_topics=None):
         json_data = keep_active_topics(m.copy(), active_topics)
 
         for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
+            logger.info(f'keywords = {keywords}')
             for paper_id,contents in v.items():
                 contents = str(contents)
 
@@ -173,11 +200,11 @@ def update_paper_links(filename, active_topics=None):
 
                 contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
                 json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
+                logger.info(f'paper_id = {paper_id}, contents = {contents}')
 
                 # PapersWithCode API is deprecated, skip code link updates
                 # Papers will keep their existing null code links
-                logging.info(f'Skipping code link update for paper_id = {paper_id} (PapersWithCode API deprecated)')
+                logger.info(f'Skipping code link update for paper_id = {paper_id} (PapersWithCode API deprecated)')
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
@@ -338,7 +365,7 @@ def json_to_md(filename,md_filename,
             f.write((f"[issues-url]: https://github.com/Vincentqyw/"
                      f"cv-arxiv-daily/issues\n\n"))
 
-    logging.info(f"{task} finished")
+    logger.info(f"{task} finished")
 
 def demo(**config):
     # TODO: use config
@@ -354,17 +381,16 @@ def demo(**config):
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
-    logging.info(f'Update Paper Link = {b_update}')
+    logger.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
+        logger.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
+            logger.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
-            print("\n")
-        logging.info(f"GET daily papers end")
+        logger.info(f"GET daily papers end")
 
     # 1. update README.md file
     if publish_readme:
