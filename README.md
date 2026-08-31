@@ -1,4 +1,4 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -86,12 +86,13 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**ORCA: Observability-Grounded Program Repair for Microservice Incidents**|Yuanchen Gao et.al.|[2608.17018](http://arxiv.org/abs/2608.17018)|null|
 |**2026-08-09**|**Independent Patch Verification for Coding Agents with a Bidirectional Reconstruct-and-Verify Framework**|Chenglin Li et.al.|[2608.08950](http://arxiv.org/abs/2608.08950)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|null|
 |**2026-07-28**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995](http://arxiv.org/abs/2607.25995)|null|
@@ -100,6 +101,7 @@
 |**2026-07-01**|**SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests**|Yaoqi Guo et.al.|[2607.00990](http://arxiv.org/abs/2607.00990)|null|
 |**2026-06-26**|**Dockerless: Environment-Free Program Verifier for Coding Agents**|Wenhao Zeng et.al.|[2606.28436](http://arxiv.org/abs/2606.28436)|null|
 |**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
+|**2026-08-20**|**Self-Harness: Harnesses That Improve Themselves**|Hangfan Zhang et.al.|[2606.09498](http://arxiv.org/abs/2606.09498)|null|
 |**2026-05-25**|**Names Are All You Need: Effective and Safe Regression Test Selection for Python**|You Wang et.al.|[2605.25356](http://arxiv.org/abs/2605.25356)|null|
 |**2026-05-19**|**Measuring Safety Alignment Effects in Autonomous Security Agents**|Isaac David et.al.|[2605.19722](http://arxiv.org/abs/2605.19722)|null|
 |**2026-05-07**|**Patch-Effect Graph Kernels for LLM Interpretability**|Ruben Fernandez-Boullon et.al.|[2605.06480](http://arxiv.org/abs/2605.06480)|null|
@@ -131,7 +133,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
@@ -86,6 +86,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**ORCA: Observability-Grounded Program Repair for Microservice Incidents**|Yuanchen Gao et.al.|[2608.17018](http://arxiv.org/abs/2608.17018)|null|
 |**2026-08-09**|**Independent Patch Verification for Coding Agents with a Bidirectional Reconstruct-and-Verify Framework**|Chenglin Li et.al.|[2608.08950](http://arxiv.org/abs/2608.08950)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|null|
 |**2026-07-28**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995](http://arxiv.org/abs/2607.25995)|null|
@@ -94,6 +95,7 @@ layout: default
 |**2026-07-01**|**SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests**|Yaoqi Guo et.al.|[2607.00990](http://arxiv.org/abs/2607.00990)|null|
 |**2026-06-26**|**Dockerless: Environment-Free Program Verifier for Coding Agents**|Wenhao Zeng et.al.|[2606.28436](http://arxiv.org/abs/2606.28436)|null|
 |**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
+|**2026-08-20**|**Self-Harness: Harnesses That Improve Themselves**|Hangfan Zhang et.al.|[2606.09498](http://arxiv.org/abs/2606.09498)|null|
 |**2026-05-25**|**Names Are All You Need: Effective and Safe Regression Test Selection for Python**|You Wang et.al.|[2605.25356](http://arxiv.org/abs/2605.25356)|null|
 |**2026-05-19**|**Measuring Safety Alignment Effects in Autonomous Security Agents**|Isaac David et.al.|[2605.19722](http://arxiv.org/abs/2605.19722)|null|
 |**2026-05-07**|**Patch-Effect Graph Kernels for LLM Interpretability**|Ruben Fernandez-Boullon et.al.|[2605.06480](http://arxiv.org/abs/2605.06480)|null|
