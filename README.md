@@ -106,15 +106,23 @@
 |---|---|---|---|---|
 |**2026-09-04**|**The History Is the Detector: Executing CVE Patch History, End-to-End**|Qiushi Wu et.al.|[2609.05335](http://arxiv.org/abs/2609.05335)|null|
 |**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075](http://arxiv.org/abs/2609.04075)|null|
+|**2026-09-05**|**ARMOR: Manifold-Oriented Training for Adversarially Robust Aerial Object Detection under Data Scarcity**|Haoran Wang et.al.|[2608.29510](http://arxiv.org/abs/2608.29510)|null|
+|**2026-08-18**|**An Emulation Anchored Digital Twin Testbed for Cyberattack and Defense Analysis in Hospital IT OT Environments**|Prashant Rawat et.al.|[2608.17650](http://arxiv.org/abs/2608.17650)|null|
 |**2026-08-17**|**ORCA: Observability-Grounded Program Repair for Microservice Incidents**|Yuanchen Gao et.al.|[2608.17018](http://arxiv.org/abs/2608.17018)|null|
+|**2026-08-10**|**A Unified Issue Resolution Benchmark for Requirement Clarification, Planning, and Code Generation for Coding Agents**|Xin Zhou et.al.|[2608.09072](http://arxiv.org/abs/2608.09072)|null|
 |**2026-08-09**|**Independent Patch Verification for Coding Agents with a Bidirectional Reconstruct-and-Verify Framework**|Chenglin Li et.al.|[2608.08950](http://arxiv.org/abs/2608.08950)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|null|
+|**2026-08-04**|**SKILL-KD: Contrastive Skill Distillation for LLM Agents**|Qiming Shi et.al.|[2607.28048](http://arxiv.org/abs/2607.28048)|null|
 |**2026-08-31**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995](http://arxiv.org/abs/2607.25995)|null|
+|**2026-07-23**|**Workflow-Localized Mechanism Learning: Attribution-Guided Repair and Knowledge Reuse for Structured Agent Skills**|Zibin Lin et.al.|[2607.20999](http://arxiv.org/abs/2607.20999)|null|
+|**2026-07-23**|**Code Monitor Red Teaming for Public-Test-Passing Code**|Junchi Liao et.al.|[2607.20852](http://arxiv.org/abs/2607.20852)|null|
 |**2026-07-12**|**WebDesignIter: Co-Evolving Design Knowledge for Repository-Level Front-End Code Generation**|Zheng Pei et.al.|[2607.10621](http://arxiv.org/abs/2607.10621)|null|
 |**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|null|
 |**2026-07-01**|**SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests**|Yaoqi Guo et.al.|[2607.00990](http://arxiv.org/abs/2607.00990)|null|
 |**2026-06-26**|**Dockerless: Environment-Free Program Verifier for Coding Agents**|Wenhao Zeng et.al.|[2606.28436](http://arxiv.org/abs/2606.28436)|null|
+|**2026-06-22**|**Robust Structure Learning of $k$ -local Lindbladians**|Tim Möbus et.al.|[2606.23652](http://arxiv.org/abs/2606.23652)|null|
 |**2026-06-16**|**PracRepair: LLM-Empowered Automated Program Repair Inspired by Human-Like Debugging Practices**|Yu Cheng et.al.|[2606.17612](http://arxiv.org/abs/2606.17612)|null|
+|**2026-06-15**|**Cross-Silo De-Anonymization Under Local Differential Privacy: Threat Model, Phase Transition, and Coordination Necessity**|Ziniu Liu et.al.|[2606.16763](http://arxiv.org/abs/2606.16763)|null|
 |**2026-08-20**|**Self-Harness: Harnesses That Improve Themselves**|Hangfan Zhang et.al.|[2606.09498](http://arxiv.org/abs/2606.09498)|null|
 |**2026-05-25**|**Names Are All You Need: Effective and Safe Regression Test Selection for Python**|You Wang et.al.|[2605.25356](http://arxiv.org/abs/2605.25356)|null|
 |**2026-05-19**|**Measuring Safety Alignment Effects in Autonomous Security Agents**|Isaac David et.al.|[2605.19722](http://arxiv.org/abs/2605.19722)|null|
