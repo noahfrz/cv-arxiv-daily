@@ -18,7 +18,7 @@ arxiv_url = "http://arxiv.org/"
 arxiv_page_size = 20
 arxiv_page_delay_seconds = 10.0
 arxiv_num_retries = 2
-arxiv_retry_delays = (60, 180, 300)
+arxiv_retry_delays = (60, 180)
 
 def load_config(config_file:str) -> dict:
     '''
@@ -70,6 +70,7 @@ def sort_papers(papers):
 def fetch_arxiv_results(search_engine, max_results, topic):
     delays = (0, *arxiv_retry_delays)
     page_size = min(max_results, arxiv_page_size)
+    error = None
 
     for attempt, delay_seconds in enumerate(delays, start=1):
         if delay_seconds:
@@ -84,12 +85,12 @@ def fetch_arxiv_results(search_engine, max_results, topic):
 
         try:
             return list(client.results(search_engine))
-        except arxiv.HTTPError as err:
-            if err.status != 429:
-                raise
-            if attempt == len(delays):
-                logger.warning(f"arXiv rate limit persisted for {topic}; preserving existing papers")
-                return []
+        except arxiv.ArxivError as err:
+            error = err
+            logger.warning(f"arXiv request failed for {topic} on attempt {attempt}/{len(delays)}: {err}")
+
+    logger.warning(f"arXiv remained unavailable for {topic}; preserving existing papers: {error}")
+    return []
 
 def get_code_link(qword:str) -> str:
     """
