@@ -2,15 +2,27 @@
 layout: default
 ---
 
-## Updated on 2026.09.07
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Exploring the Role of Security Experience and ChatGPT Usage Strategies on Secure Software Engineering Education**|Alessio Ferrari et.al.|[2609.11303](http://arxiv.org/abs/2609.11303)|null|
+|**2026-09-09**|**If It's Not Buggy, Don't Fix It: On the Dynamics of Iterative Bug-fixing with LLMs**|Xietao Wang-Lin et.al.|[2609.10123](http://arxiv.org/abs/2609.10123)|null|
+|**2026-09-04**|**Better Understanding, Better Fixes? A Study of Hallucination in LLM-based Automated Program Repair**|Xuemeng Cai et.al.|[2609.04909](http://arxiv.org/abs/2609.04909)|null|
+|**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075](http://arxiv.org/abs/2609.04075)|null|
+|**2026-09-04**|**After Cheap Discovery: From unknown to known-and-unfixed**|Bahman Sistany et.al.|[2609.03266](http://arxiv.org/abs/2609.03266)|null|
+|**2026-09-01**|**From Silicon to Boot Code: Extending Automated Program Repair to Firmware-Layer Security Workarounds**|Maisha Mastora et.al.|[2609.01769](http://arxiv.org/abs/2609.01769)|null|
+|**2026-08-22**|**XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models**|Jingwen Wu et.al.|[2608.21718](http://arxiv.org/abs/2608.21718)|null|
+|**2026-08-19**|**Hype Meets Reality: Large Language Models as Mutators in Search-based Automated Program Repair of Simulink-Stateflow Models**|Ayesha Irshad et.al.|[2608.19347](http://arxiv.org/abs/2608.19347)|null|
+|**2026-08-17**|**ORCA: Observability-Grounded Program Repair for Microservice Incidents**|Yuanchen Gao et.al.|[2608.17018](http://arxiv.org/abs/2608.17018)|null|
+|**2026-08-17**|**Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency**|Junchi Liu et.al.|[2608.14065](http://arxiv.org/abs/2608.14065)|null|
+|**2026-08-12**|**VICBench: A Multi-Language Benchmark for Code Vulnerability Detection**|Jin Lu et.al.|[2608.12246](http://arxiv.org/abs/2608.12246)|null|
+|**2026-08-11**|**CausalRepair: Bridging the Causality Gap in Large Language Model-Based Automated Program Repair via Dual-Slicing**|Linhao Wu et.al.|[2608.10613](http://arxiv.org/abs/2608.10613)|null|
 |**2026-08-10**|**Activation Probes Surface Code-Security Signals that the Model's Output Misses**|Ivan Wiryadi et.al.|[2608.09643](http://arxiv.org/abs/2608.09643)|null|
-|**2026-08-10**|**Entropy-based Code Adversarial Translation for Real-world Repository Migration**|Yushun Tang et.al.|[2608.09273](http://arxiv.org/abs/2608.09273)|null|
+|**2026-08-11**|**Entropy-based Code Adversarial Translation for Real-world Repository Migration**|Yushun Tang et.al.|[2608.09273](http://arxiv.org/abs/2608.09273)|null|
 |**2026-08-01**|**EduPluginBench: Executable Assurance for AI-Generated Educational Plugins**|Nizam Kadir et.al.|[2608.00739](http://arxiv.org/abs/2608.00739)|null|
 |**2026-08-01**|**Vul4Py: Benchmarking Automated Vulnerability Repair in Python with Paired Exploit and Functional Oracles**|Tan Bui et.al.|[2608.00692](http://arxiv.org/abs/2608.00692)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|null|
@@ -86,10 +98,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**The History Is the Detector: Executing CVE Patch History, End-to-End**|Qiushi Wu et.al.|[2609.05335](http://arxiv.org/abs/2609.05335)|null|
+|**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075](http://arxiv.org/abs/2609.04075)|null|
 |**2026-08-17**|**ORCA: Observability-Grounded Program Repair for Microservice Incidents**|Yuanchen Gao et.al.|[2608.17018](http://arxiv.org/abs/2608.17018)|null|
 |**2026-08-09**|**Independent Patch Verification for Coding Agents with a Bidirectional Reconstruct-and-Verify Framework**|Chenglin Li et.al.|[2608.08950](http://arxiv.org/abs/2608.08950)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|null|
-|**2026-07-28**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995](http://arxiv.org/abs/2607.25995)|null|
+|**2026-08-31**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995](http://arxiv.org/abs/2607.25995)|null|
 |**2026-07-12**|**WebDesignIter: Co-Evolving Design Knowledge for Repository-Level Front-End Code Generation**|Zheng Pei et.al.|[2607.10621](http://arxiv.org/abs/2607.10621)|null|
 |**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|null|
 |**2026-07-01**|**SWE-Doctor: Guiding Software Engineering Agents with Runtime Diagnosis from Multi-Faceted Bug Reproduction Tests**|Yaoqi Guo et.al.|[2607.00990](http://arxiv.org/abs/2607.00990)|null|
