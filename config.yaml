@@ -25,4 +25,4 @@ keywords:
     "Vulnerability Repair":
         query: 'all:"vulnerability repair" OR all:"vulnerability fixing" OR all:"repairing vulnerabilities" OR all:"security patch generation" OR all:"automated program repair"'
     "Patch Validation":
-        query: 'all:"patch validation" OR all:"patch verification" OR all:"patch correctness" OR all:"program repair validation" OR all:"regression test selection"'
+        query: 'all:"patch validation" OR all:"patch verification" OR all:"patch correctness" OR all:"patch correctness assessment" OR all:"automated patch correctness assessment" OR all:"patch correctness prediction" OR all:"patch assessment" OR all:"automated patch assessment" OR all:"patch overfitting" OR all:"overfitting patches" OR all:"test overfitting" OR all:"patch validity" OR all:"patch evaluation" OR all:"valid@k" OR all:"program repair validation" OR all:"regression test selection"'
