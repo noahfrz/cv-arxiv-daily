@@ -1,4 +1,4 @@
-## Updated on 2026.09.21
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -98,12 +98,17 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**The Impossible Trinity of Time-Series Validation: A Conservation Law among Training Sufficiency, Test Coverage, and Temporal Causality**|Jiayu Li et.al.|[2609.29530](http://arxiv.org/abs/2609.29530)|null|
+|**2026-09-21**|**Patch-to-Global: Random Patch Diffusion for Globally Consistent Megapixel Artifact Inpainting in Whole Slide Images**|Hyeseong Lee et.al.|[2609.24116](http://arxiv.org/abs/2609.24116)|null|
+|**2026-09-23**|**SyzHarness: Patch-Based Kernel Bug Reproduction with LLM-Synthesized Fuzzing Harnesses**|Xingyu Li et.al.|[2609.23889](http://arxiv.org/abs/2609.23889)|null|
+|**2026-09-19**|**SoK: From Finding to Deployment: Systematizing the OS Kernel Bug Lifecycle**|Luyao bai et.al.|[2609.23218](http://arxiv.org/abs/2609.23218)|null|
+|**2026-09-16**|**Experimental Settings in LLM-Based Program Repair: A Study of Inputs, Tool Access, Feedback, and Validation**|Xushu Dai et.al.|[2609.17993](http://arxiv.org/abs/2609.17993)|null|
 |**2026-09-04**|**The History Is the Detector: Executing CVE Patch History, End-to-End**|Qiushi Wu et.al.|[2609.05335](http://arxiv.org/abs/2609.05335)|null|
 |**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075](http://arxiv.org/abs/2609.04075)|null|
 |**2026-09-05**|**ARMOR: Manifold-Oriented Training for Adversarially Robust Aerial Object Detection under Data Scarcity**|Haoran Wang et.al.|[2608.29510](http://arxiv.org/abs/2608.29510)|null|
@@ -155,7 +160,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
