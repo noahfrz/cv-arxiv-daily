@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.06
+## Updated on 2026.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vulnerability Repair
@@ -98,9 +98,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Word-Level Text Unmixing via Evidence-Preserving Ownership Routing with Language Models**|Jinglin He et.al.|[2610.06603](http://arxiv.org/abs/2610.06603)|null|
+|**2026-10-03**|**Functionally Equivalent or Not? Graph-Grounded Differential Surrogate Execution for Code Equivalence**|Amit Kachroo et.al.|[2610.04371](http://arxiv.org/abs/2610.04371)|null|
+|**2026-09-24**|**A Leakage-Safe, Cost-Aware Regression Testing Methodology for the Quantum Transpiler**|Furqan Nasir et.al.|[2609.35834](http://arxiv.org/abs/2609.35834)|null|
+|**2026-09-25**|**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**|Arjun Pillai et.al.|[2609.30954](http://arxiv.org/abs/2609.30954)|null|
 |**2026-09-02**|**The Impossible Trinity of Time-Series Validation: A Conservation Law among Training Sufficiency, Test Coverage, and Temporal Causality**|Jiayu Li et.al.|[2609.29530](http://arxiv.org/abs/2609.29530)|null|
 |**2026-09-21**|**Patch-to-Global: Random Patch Diffusion for Globally Consistent Megapixel Artifact Inpainting in Whole Slide Images**|Hyeseong Lee et.al.|[2609.24116](http://arxiv.org/abs/2609.24116)|null|
-|**2026-09-23**|**SyzHarness: Patch-Based Kernel Bug Reproduction with LLM-Synthesized Fuzzing Harnesses**|Xingyu Li et.al.|[2609.23889](http://arxiv.org/abs/2609.23889)|null|
+|**2026-10-01**|**SyzHarness: Patch-Based Kernel Bug Reproduction with LLM-Synthesized Fuzzing Harnesses**|Xingyu Li et.al.|[2609.23889](http://arxiv.org/abs/2609.23889)|null|
 |**2026-09-19**|**SoK: From Finding to Deployment: Systematizing the OS Kernel Bug Lifecycle**|Luyao bai et.al.|[2609.23218](http://arxiv.org/abs/2609.23218)|null|
 |**2026-09-16**|**Experimental Settings in LLM-Based Program Repair: A Study of Inputs, Tool Access, Feedback, and Validation**|Xushu Dai et.al.|[2609.17993](http://arxiv.org/abs/2609.17993)|null|
 |**2026-09-04**|**The History Is the Detector: Executing CVE Patch History, End-to-End**|Qiushi Wu et.al.|[2609.05335](http://arxiv.org/abs/2609.05335)|null|
@@ -111,7 +115,7 @@ layout: default
 |**2026-08-10**|**A Unified Issue Resolution Benchmark for Requirement Clarification, Planning, and Code Generation for Coding Agents**|Xin Zhou et.al.|[2608.09072](http://arxiv.org/abs/2608.09072)|null|
 |**2026-08-09**|**Independent Patch Verification for Coding Agents with a Bidirectional Reconstruct-and-Verify Framework**|Chenglin Li et.al.|[2608.08950](http://arxiv.org/abs/2608.08950)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|null|
-|**2026-08-04**|**SKILL-KD: Contrastive Skill Distillation for LLM Agents**|Qiming Shi et.al.|[2607.28048](http://arxiv.org/abs/2607.28048)|null|
+|**2026-10-05**|**SKILL-KD: Contrastive Skill Distillation for LLM Agents**|Qiming Shi et.al.|[2607.28048](http://arxiv.org/abs/2607.28048)|null|
 |**2026-08-31**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995](http://arxiv.org/abs/2607.25995)|null|
 |**2026-07-23**|**Workflow-Localized Mechanism Learning: Attribution-Guided Repair and Knowledge Reuse for Structured Agent Skills**|Zibin Lin et.al.|[2607.20999](http://arxiv.org/abs/2607.20999)|null|
 |**2026-07-23**|**Code Monitor Red Teaming for Public-Test-Passing Code**|Junchi Liao et.al.|[2607.20852](http://arxiv.org/abs/2607.20852)|null|
