@@ -1,4 +1,4 @@
-## Updated on 2026.10.21
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**OpenDraco: A Platform for Engineering and Experimenting with Configurable Multi-Agent Architectures for Software Engineering**|Xiang Feng Ye Pan et.al.|[2610.32686](http://arxiv.org/abs/2610.32686)|null|
+|**2026-10-23**|**DeepAVR: Deep Analysis via Multi-Agent Collaboration for Automated Vulnerability Repair**|Woorim Han et.al.|[2610.32345](http://arxiv.org/abs/2610.32345)|null|
+|**2026-10-21**|**RegoMender: A Multi-agent Framework for Automated Rego Policy Repair**|Ruijie Zhang et.al.|[2610.29456](http://arxiv.org/abs/2610.29456)|null|
+|**2026-10-14**|**P2Patch: Exploit-Guided Vulnerability Repair**|Mohsen Iranmanesh et.al.|[2610.20245](http://arxiv.org/abs/2610.20245)|null|
+|**2026-10-12**|**VulnBump: A Benchmark for Fixing Vulnerable Dependencies in Real Projects While Keeping the Build and Tests Green**|Gabija Pasiunaite et.al.|[2610.17374](http://arxiv.org/abs/2610.17374)|null|
+|**2026-10-10**|**SEEK: Agentic Knowledge Graph Retrieval for Secure Code Generation**|Varun Gadey et.al.|[2610.14968](http://arxiv.org/abs/2610.14968)|null|
+|**2026-10-09**|**EviRepair: Evidence-Driven Agents for Reliable Vulnerability Repair**|Yilian Shi et.al.|[2610.13491](http://arxiv.org/abs/2610.13491)|null|
+|**2026-10-06**|**Beyond the Leaderboard: Multi-Dimensional Evaluation of Dense and Mixture-of-Experts Models for Automated Program Repair**|Anvi Kalpesh Shah et.al.|[2610.08173](http://arxiv.org/abs/2610.08173)|null|
+|**2026-10-06**|**CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?**|Hang He et.al.|[2610.07557](http://arxiv.org/abs/2610.07557)|null|
+|**2026-10-05**|**Catching Developers in the Flow: Low-Latency Agentic Program Repair at Google Scale**|Celal Ziftci et.al.|[2610.07289](http://arxiv.org/abs/2610.07289)|null|
+|**2026-10-05**|**Does AI Help Cyber Attackers or Defenders? Evidence from Nonpublic Vulnerabilities and Subsequent Attacks**|Tobias Heldt et.al.|[2610.06584](http://arxiv.org/abs/2610.06584)|null|
+|**2026-10-05**|**Where Did the Repair First Go Wrong? Localizing the Origins of Silent Failures in Agentic Vulnerability Repair**|Wenji Bai et.al.|[2610.06163](http://arxiv.org/abs/2610.06163)|null|
+|**2026-10-04**|**VulValidate: Auditing Function-Level Vulnerability Labels with Executable Evidence**|Leizhen Zhang et.al.|[2610.05103](http://arxiv.org/abs/2610.05103)|null|
+|**2026-09-30**|**COMPASS: Predicting the Relationship of Multiple Patches for Vulnerabilities with LLMs**|Yi Song et.al.|[2609.39783](http://arxiv.org/abs/2609.39783)|null|
+|**2026-09-27**|**SecProbe: Adaptive Evaluation of Coding Agents on Cybersecurity Vulnerabilities**|Xiaonan Luo et.al.|[2609.33763](http://arxiv.org/abs/2609.33763)|null|
+|**2026-09-24**|**Specification-Driven Benchmarking for Automated Program Repair From Static Corpora to Executable Specifications**|Yasser Ebrahim et.al.|[2609.28896](http://arxiv.org/abs/2609.28896)|null|
+|**2026-09-22**|**Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen**|Om Nepal et.al.|[2609.26749](http://arxiv.org/abs/2609.26749)|null|
+|**2026-09-19**|**Towards the Generalizability of Leveraging ChatGPT in APR via Self-enhancing: An Empirical Study**|Qingyuan Li et.al.|[2609.22844](http://arxiv.org/abs/2609.22844)|null|
+|**2026-09-16**|**Experimental Settings in LLM-Based Program Repair: A Study of Inputs, Tool Access, Feedback, and Validation**|Xushu Dai et.al.|[2609.17993](http://arxiv.org/abs/2609.17993)|null|
+|**2026-09-14**|**Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities**|Fares Trad et.al.|[2609.15963](http://arxiv.org/abs/2609.15963)|null|
 |**2026-09-10**|**Exploring the Role of Security Experience and ChatGPT Usage Strategies on Secure Software Engineering Education**|Alessio Ferrari et.al.|[2609.11303](http://arxiv.org/abs/2609.11303)|null|
 |**2026-09-09**|**If It's Not Buggy, Don't Fix It: On the Dynamics of Iterative Bug-fixing with LLMs**|Xietao Wang-Lin et.al.|[2609.10123](http://arxiv.org/abs/2609.10123)|null|
 |**2026-09-04**|**Better Understanding, Better Fixes? A Study of Hallucination in LLM-based Automated Program Repair**|Xuemeng Cai et.al.|[2609.04909](http://arxiv.org/abs/2609.04909)|null|
@@ -98,12 +118,13 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**WADE: An LSTM-Based Anomaly Detection Engine for WebAssembly Applications**|Ilaria Campestrini et.al.|[2610.31984](http://arxiv.org/abs/2610.31984)|null|
 |**2026-10-05**|**Word-Level Text Unmixing via Evidence-Preserving Ownership Routing with Language Models**|Jinglin He et.al.|[2610.06603](http://arxiv.org/abs/2610.06603)|null|
 |**2026-10-03**|**Functionally Equivalent or Not? Graph-Grounded Differential Surrogate Execution for Code Equivalence**|Amit Kachroo et.al.|[2610.04371](http://arxiv.org/abs/2610.04371)|null|
 |**2026-09-24**|**A Leakage-Safe, Cost-Aware Regression Testing Methodology for the Quantum Transpiler**|Furqan Nasir et.al.|[2609.35834](http://arxiv.org/abs/2609.35834)|null|
@@ -121,7 +142,7 @@
 |**2026-08-10**|**A Unified Issue Resolution Benchmark for Requirement Clarification, Planning, and Code Generation for Coding Agents**|Xin Zhou et.al.|[2608.09072](http://arxiv.org/abs/2608.09072)|null|
 |**2026-08-09**|**Independent Patch Verification for Coding Agents with a Bidirectional Reconstruct-and-Verify Framework**|Chenglin Li et.al.|[2608.08950](http://arxiv.org/abs/2608.08950)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422](http://arxiv.org/abs/2607.29422)|null|
-|**2026-10-05**|**SKILL-KD: Contrastive Skill Distillation for LLM Agents**|Qiming Shi et.al.|[2607.28048](http://arxiv.org/abs/2607.28048)|null|
+|**2026-10-13**|**SKILL-KD: Contrastive Skill Distillation for LLM Agents**|Qiming Shi et.al.|[2607.28048](http://arxiv.org/abs/2607.28048)|null|
 |**2026-08-31**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995](http://arxiv.org/abs/2607.25995)|null|
 |**2026-07-23**|**Workflow-Localized Mechanism Learning: Attribution-Guided Repair and Knowledge Reuse for Structured Agent Skills**|Zibin Lin et.al.|[2607.20999](http://arxiv.org/abs/2607.20999)|null|
 |**2026-07-23**|**Code Monitor Red Teaming for Public-Test-Passing Code**|Junchi Liao et.al.|[2607.20852](http://arxiv.org/abs/2607.20852)|null|
@@ -164,7 +185,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
