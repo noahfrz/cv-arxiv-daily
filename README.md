@@ -1,4 +1,4 @@
-## Updated on 2026.10.31
+## Updated on 2026.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**ExploreRepair: Evidence-Specialized Agents for Vulnerability Repair under Information Constraints**|Duc Manh Tran et.al.|[2610.39899](http://arxiv.org/abs/2610.39899)|null|
+|**2026-10-28**|**Detecting Incorrect LLM Explanations for Automated Program Repair**|Lam Nguyen Tung et.al.|[2610.38311](http://arxiv.org/abs/2610.38311)|null|
+|**2026-10-25**|**Repairing Broken Access Control in Web Applications with LLMs: An Empirical Benchmark Study**|Mingrui Liu et.al.|[2610.34290](http://arxiv.org/abs/2610.34290)|null|
+|**2026-10-25**|**Securing Agent-Generated Code with Its Own Development History**|Prateek Kumar Rajput et.al.|[2610.34098](http://arxiv.org/abs/2610.34098)|null|
+|**2026-10-24**|**ArchGuard-APR: Architecture-Constraint-Aware Multi-Agent Program Repair Using Repository Graphs and Execution Feedback**|Majid Feiz Deilami et.al.|[2610.33853](http://arxiv.org/abs/2610.33853)|null|
 |**2026-10-23**|**OpenDraco: A Platform for Engineering and Experimenting with Configurable Multi-Agent Architectures for Software Engineering**|Xiang Feng Ye Pan et.al.|[2610.32686](http://arxiv.org/abs/2610.32686)|null|
 |**2026-10-23**|**DeepAVR: Deep Analysis via Multi-Agent Collaboration for Automated Vulnerability Repair**|Woorim Han et.al.|[2610.32345](http://arxiv.org/abs/2610.32345)|null|
 |**2026-10-21**|**RegoMender: A Multi-agent Framework for Automated Rego Policy Repair**|Ruijie Zhang et.al.|[2610.29456](http://arxiv.org/abs/2610.29456)|null|
@@ -118,12 +123,16 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-28**|**DeepDiff: Neuro-Dynamic Regression-Freedom Checking for Security Patch Validation**|Laboni Sarker et.al.|[2610.39066](http://arxiv.org/abs/2610.39066)|null|
+|**2026-10-27**|**The UKIRT M33 Monitoring Project - VII. A 15-year K-band photometric catalogue of long-period variable stars in the central kiloparsec of M33**|Mina Alizadeh et.al.|[2610.37591](http://arxiv.org/abs/2610.37591)|null|
+|**2026-10-26**|**Any3R: Feedforward 3D Reconstruction from Any Camera Type**|Jingong Chen et.al.|[2610.36150](http://arxiv.org/abs/2610.36150)|null|
+|**2026-10-24**|**ArchGuard-APR: Architecture-Constraint-Aware Multi-Agent Program Repair Using Repository Graphs and Execution Feedback**|Majid Feiz Deilami et.al.|[2610.33853](http://arxiv.org/abs/2610.33853)|null|
 |**2026-10-22**|**WADE: An LSTM-Based Anomaly Detection Engine for WebAssembly Applications**|Ilaria Campestrini et.al.|[2610.31984](http://arxiv.org/abs/2610.31984)|null|
 |**2026-10-05**|**Word-Level Text Unmixing via Evidence-Preserving Ownership Routing with Language Models**|Jinglin He et.al.|[2610.06603](http://arxiv.org/abs/2610.06603)|null|
 |**2026-10-03**|**Functionally Equivalent or Not? Graph-Grounded Differential Surrogate Execution for Code Equivalence**|Amit Kachroo et.al.|[2610.04371](http://arxiv.org/abs/2610.04371)|null|
@@ -185,7 +194,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
