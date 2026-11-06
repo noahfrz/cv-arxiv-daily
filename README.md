@@ -1,4 +1,4 @@
-## Updated on 2026.11.02
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,8 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**PatchCon: Patch-aware Weighted Supervised Contrastive Learning for Vulnerability Detection**|Chaomeng Lu et.al.|[2611.06583](http://arxiv.org/abs/2611.06583)|null|
+|**2026-11-04**|**DARE: Difficulty Analysis for Repair Enhancement**|Jikwang Lee et.al.|[2611.05797](http://arxiv.org/abs/2611.05797)|null|
+|**2026-11-03**|**One Strategy Does Not Fit All: Rethinking Data Labeling for Just-in-Time Vulnerability Prediction**|Quan Tran et.al.|[2611.05013](http://arxiv.org/abs/2611.05013)|null|
 |**2026-10-29**|**ExploreRepair: Evidence-Specialized Agents for Vulnerability Repair under Information Constraints**|Duc Manh Tran et.al.|[2610.39899](http://arxiv.org/abs/2610.39899)|null|
-|**2026-10-28**|**Detecting Incorrect LLM Explanations for Automated Program Repair**|Lam Nguyen Tung et.al.|[2610.38311](http://arxiv.org/abs/2610.38311)|null|
+|**2026-11-01**|**Detecting Incorrect LLM Explanations for Automated Program Repair**|Lam Nguyen Tung et.al.|[2610.38311](http://arxiv.org/abs/2610.38311)|null|
 |**2026-10-25**|**Repairing Broken Access Control in Web Applications with LLMs: An Empirical Benchmark Study**|Mingrui Liu et.al.|[2610.34290](http://arxiv.org/abs/2610.34290)|null|
 |**2026-10-25**|**Securing Agent-Generated Code with Its Own Development History**|Prateek Kumar Rajput et.al.|[2610.34098](http://arxiv.org/abs/2610.34098)|null|
 |**2026-10-24**|**ArchGuard-APR: Architecture-Constraint-Aware Multi-Agent Program Repair Using Repository Graphs and Execution Feedback**|Majid Feiz Deilami et.al.|[2610.33853](http://arxiv.org/abs/2610.33853)|null|
@@ -123,7 +126,7 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## Patch Validation
 
@@ -141,7 +144,7 @@
 |**2026-09-02**|**The Impossible Trinity of Time-Series Validation: A Conservation Law among Training Sufficiency, Test Coverage, and Temporal Causality**|Jiayu Li et.al.|[2609.29530](http://arxiv.org/abs/2609.29530)|null|
 |**2026-09-21**|**Patch-to-Global: Random Patch Diffusion for Globally Consistent Megapixel Artifact Inpainting in Whole Slide Images**|Hyeseong Lee et.al.|[2609.24116](http://arxiv.org/abs/2609.24116)|null|
 |**2026-10-01**|**SyzHarness: Patch-Based Kernel Bug Reproduction with LLM-Synthesized Fuzzing Harnesses**|Xingyu Li et.al.|[2609.23889](http://arxiv.org/abs/2609.23889)|null|
-|**2026-09-19**|**SoK: From Finding to Deployment: Systematizing the OS Kernel Bug Lifecycle**|Luyao bai et.al.|[2609.23218](http://arxiv.org/abs/2609.23218)|null|
+|**2026-09-19**|**SoK: From Finding to Deployment: Systematizing the OS Kernel Bug Lifecycle**|Luyao Bai et.al.|[2609.23218](http://arxiv.org/abs/2609.23218)|null|
 |**2026-09-16**|**Experimental Settings in LLM-Based Program Repair: A Study of Inputs, Tool Access, Feedback, and Validation**|Xushu Dai et.al.|[2609.17993](http://arxiv.org/abs/2609.17993)|null|
 |**2026-09-04**|**The History Is the Detector: Executing CVE Patch History, End-to-End**|Qiushi Wu et.al.|[2609.05335](http://arxiv.org/abs/2609.05335)|null|
 |**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075](http://arxiv.org/abs/2609.04075)|null|
@@ -194,7 +197,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
