@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,8 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**Not Just Any Example: Security Requirements and Fix Patterns for Guiding LLM Vulnerability Repair**|Zichen Liu et.al.|[2611.31993](http://arxiv.org/abs/2611.31993)|null|
+|**2026-11-19**|**Exploring Early Vulnerability Analysis via Automatic Identification of Vulnerability-Introducing Commits**|Weiliang Qi et.al.|[2611.26739](http://arxiv.org/abs/2611.26739)|null|
+|**2026-10-26**|**Decided or Open? Comparing Program Repair Techniques When Patch Correctness Is Unknown**|Sadnan Nafis et.al.|[2611.23287](http://arxiv.org/abs/2611.23287)|null|
+|**2026-11-13**|**TSBugs Explorer: Exploring and Benchmarking TypeScript Bugs**|TianYi Tang et.al.|[2611.14940](http://arxiv.org/abs/2611.14940)|null|
+|**2026-11-07**|**Patch correctness in automated program repair: A five-dimensional evidence framework and cross-benchmark audit from classical repair to coding agents**|Shuai Wu et.al.|[2611.10837](http://arxiv.org/abs/2611.10837)|null|
 |**2026-11-04**|**PatchCon: Patch-aware Weighted Supervised Contrastive Learning for Vulnerability Detection**|Chaomeng Lu et.al.|[2611.06583](http://arxiv.org/abs/2611.06583)|null|
-|**2026-11-04**|**DARE: Difficulty Analysis for Repair Enhancement**|Jikwang Lee et.al.|[2611.05797](http://arxiv.org/abs/2611.05797)|null|
+|**2026-11-05**|**DARE: Difficulty Analysis for Repair Enhancement**|Jikwang Lee et.al.|[2611.05797](http://arxiv.org/abs/2611.05797)|null|
 |**2026-11-03**|**One Strategy Does Not Fit All: Rethinking Data Labeling for Just-in-Time Vulnerability Prediction**|Quan Tran et.al.|[2611.05013](http://arxiv.org/abs/2611.05013)|null|
 |**2026-10-29**|**ExploreRepair: Evidence-Specialized Agents for Vulnerability Repair under Information Constraints**|Duc Manh Tran et.al.|[2610.39899](http://arxiv.org/abs/2610.39899)|null|
 |**2026-11-01**|**Detecting Incorrect LLM Explanations for Automated Program Repair**|Lam Nguyen Tung et.al.|[2610.38311](http://arxiv.org/abs/2610.38311)|null|
@@ -22,7 +27,7 @@
 |**2026-10-25**|**Securing Agent-Generated Code with Its Own Development History**|Prateek Kumar Rajput et.al.|[2610.34098](http://arxiv.org/abs/2610.34098)|null|
 |**2026-10-24**|**ArchGuard-APR: Architecture-Constraint-Aware Multi-Agent Program Repair Using Repository Graphs and Execution Feedback**|Majid Feiz Deilami et.al.|[2610.33853](http://arxiv.org/abs/2610.33853)|null|
 |**2026-10-23**|**OpenDraco: A Platform for Engineering and Experimenting with Configurable Multi-Agent Architectures for Software Engineering**|Xiang Feng Ye Pan et.al.|[2610.32686](http://arxiv.org/abs/2610.32686)|null|
-|**2026-10-23**|**DeepAVR: Deep Analysis via Multi-Agent Collaboration for Automated Vulnerability Repair**|Woorim Han et.al.|[2610.32345](http://arxiv.org/abs/2610.32345)|null|
+|**2026-11-24**|**DeepAVR: Deep Analysis via Multi-Agent Collaboration for Automated Vulnerability Repair**|Woorim Han et.al.|[2610.32345](http://arxiv.org/abs/2610.32345)|null|
 |**2026-10-21**|**RegoMender: A Multi-agent Framework for Automated Rego Policy Repair**|Ruijie Zhang et.al.|[2610.29456](http://arxiv.org/abs/2610.29456)|null|
 |**2026-10-14**|**P2Patch: Exploit-Guided Vulnerability Repair**|Mohsen Iranmanesh et.al.|[2610.20245](http://arxiv.org/abs/2610.20245)|null|
 |**2026-10-12**|**VulnBump: A Benchmark for Fixing Vulnerable Dependencies in Real Projects While Keeping the Build and Tests Green**|Gabija Pasiunaite et.al.|[2610.17374](http://arxiv.org/abs/2610.17374)|null|
@@ -126,12 +131,21 @@
 |**2026-02-09**|**Specification Vibing for Automated Program Repair**|Taohong Zhu et.al.|[2602.08263](http://arxiv.org/abs/2602.08263)|null|
 |**2026-04-06**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Patch Validation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**PACL: Patch-based Admissibility and Conservative Limiting framework for bound-preserving compact single-step DG methods for hyperbolic conservation laws**|Yue Wu et.al.|[2611.33574](http://arxiv.org/abs/2611.33574)|null|
+|**2026-11-24**|**Building a Unified Inline Code Editing Model for GitHub Copilot**| Microsoft CodeAI Team et.al.|[2611.33314](http://arxiv.org/abs/2611.33314)|null|
+|**2026-11-24**|**Learning in the Passive Space: End-to-End Muti-Order Port-Hamiltonian Macromodeling**|Benchao Zhu et.al.|[2611.28778](http://arxiv.org/abs/2611.28778)|null|
+|**2026-11-17**|**RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution**|Adhyayan Veer Singh et.al.|[2611.23611](http://arxiv.org/abs/2611.23611)|null|
+|**2026-10-26**|**Decided or Open? Comparing Program Repair Techniques When Patch Correctness Is Unknown**|Sadnan Nafis et.al.|[2611.23287](http://arxiv.org/abs/2611.23287)|null|
+|**2026-10-21**|**AI Code Review Requires Revision-Aware Evidence of Concern Resolution**|Mamdouh Alenezi et.al.|[2611.23275](http://arxiv.org/abs/2611.23275)|null|
+|**2026-11-17**|**Harnesses That Improve Themselves: A Unifying Framework for Self-Improving Agent Harnesses**|Deep Shah et.al.|[2611.22299](http://arxiv.org/abs/2611.22299)|null|
+|**2026-11-13**|**HerAgent: A Block-Level Checkpointing Harness for Coding-Agent Environment Setup**|Xiang Li et.al.|[2611.18443](http://arxiv.org/abs/2611.18443)|null|
+|**2026-11-07**|**Patch correctness in automated program repair: A five-dimensional evidence framework and cross-benchmark audit from classical repair to coding agents**|Shuai Wu et.al.|[2611.10837](http://arxiv.org/abs/2611.10837)|null|
 |**2026-10-28**|**DeepDiff: Neuro-Dynamic Regression-Freedom Checking for Security Patch Validation**|Laboni Sarker et.al.|[2610.39066](http://arxiv.org/abs/2610.39066)|null|
 |**2026-10-27**|**The UKIRT M33 Monitoring Project - VII. A 15-year K-band photometric catalogue of long-period variable stars in the central kiloparsec of M33**|Mina Alizadeh et.al.|[2610.37591](http://arxiv.org/abs/2610.37591)|null|
 |**2026-10-26**|**Any3R: Feedforward 3D Reconstruction from Any Camera Type**|Jingong Chen et.al.|[2610.36150](http://arxiv.org/abs/2610.36150)|null|
@@ -197,7 +211,7 @@
 |**2026-01-29**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
 |**2025-10-03**|**Automated Repair of OpenID Connect Programs (Extended Version)**|Tamjid Al Rahat et.al.|[2510.02773](http://arxiv.org/abs/2510.02773)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
